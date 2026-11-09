@@ -10,3 +10,4 @@ PortSwigger Web Security Academy labs, authorized recon, and deep dives — each
 | 04 | [SSRF via Double URL-Encoded Fragment Bypass](./04-ssrf-double-encoded-fragment-bypass.md) | SSRF | Expert |
 | 05 | [SSRF via Open Redirect Bypass](./05-ssrf-open-redirect-bypass.md) | SSRF | Practitioner |
 | 06 | [Race Conditions: Why the Single-Packet Attack Works](./06-race-conditions-single-packet-attack.md) | Race Conditions | Deep dive |
+| 07 | [HTB SQLi: Registration Bypass to RCE](htb-cwes/sqli-module/01-sqli-registration-to-rce.md) | SQL Injection / RCE |
